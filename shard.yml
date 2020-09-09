@@ -1,0 +1,17 @@
+name: lichess_puzzle
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+dependencies:
+  imgcat:
+    github: 0urobor0s/imgcat.cr
+
+targets:
+  lichess-puzzle:
+    main: src/lichess-puzzle.cr
+
+crystal: 0.35.1
+
+license: MIT

@@ -1,0 +1,6 @@
+version: 2.0
+shards:
+  imgcat:
+    git: https://github.com/0urobor0s/imgcat.cr.git
+    version: 0.1.0+git.commit.d157e7e376b10168d0db3eb13b66e024d7413b59
+
