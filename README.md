@@ -1,11 +1,12 @@
 # Lichess Puzzle
 
-Output the daily lichess puzzle on iTerm2
+Output the daily [lichess](https://lichess.org/) puzzle on iTerm2
 
 ## Installation
 
 ```bash
 crystal build --no-debug --release src/lichess_puzzle.cr
+mv lichess_puzzle /usr/local/bin/
 ```
 
 ## Usage
